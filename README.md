@@ -1,2 +1,2 @@
-# simple-portfolio-website
+# portfolio
 Simple portfolio website
